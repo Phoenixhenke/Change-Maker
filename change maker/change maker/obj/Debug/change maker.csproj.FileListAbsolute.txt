@@ -1,0 +1,7 @@
+c:\users\technologist\documents\visual studio 2012\Projects\change maker\change maker\bin\Debug\change maker.exe.config
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\bin\Debug\change maker.exe.config
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\bin\Debug\change maker.exe
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\bin\Debug\change maker.pdb
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\obj\Debug\change maker.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\obj\Debug\change maker.exe
+C:\Users\Technologist\Documents\GitHub\Change-Maker\change maker\change maker\obj\Debug\change maker.pdb
